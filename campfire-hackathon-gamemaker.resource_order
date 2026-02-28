@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object1","order":2,"path":"objects/Object1/Object1.yy",},
+    {"name":"forest_tiles","order":3,"path":"sprites/forest_tiles/forest_tiles.yy",},
+    {"name":"parallax_forest","order":1,"path":"sprites/parallax_forest/parallax_forest.yy",},
+    {"name":"preview","order":4,"path":"sprites/preview/preview.yy",},
+  ],
+}
